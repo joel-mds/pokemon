@@ -1,4 +1,5 @@
 Le service rendu : 
+
 Le service est une application web qui génère une page HTML en fonction d'un nom fourni en paramètre de requête. Il associe ce nom à un identifiant de Pokémon en utilisant un algorithme de hachage, puis récupère le nom du Pokémon correspondant via une API externe (PokeAPI). La page affiche ensuite le nom du Pokémon et d'autres informations.
 
 Comment lancer le service sur son poste
